@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/store-wheels/static/css/main.d32403d6.css",
+    "main.js": "/store-wheels/static/js/main.f47a71fd.js",
+    "static/js/787.164e93a4.chunk.js": "/store-wheels/static/js/787.164e93a4.chunk.js",
+    "index.html": "/store-wheels/index.html",
+    "main.d32403d6.css.map": "/store-wheels/static/css/main.d32403d6.css.map",
+    "main.f47a71fd.js.map": "/store-wheels/static/js/main.f47a71fd.js.map",
+    "787.164e93a4.chunk.js.map": "/store-wheels/static/js/787.164e93a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d32403d6.css",
+    "static/js/main.f47a71fd.js"
+  ]
+}
